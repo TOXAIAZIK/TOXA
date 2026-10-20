@@ -1,4 +1,4 @@
-# ---
+
 (пока на пайтон)
 # TOXA
 
@@ -84,7 +84,7 @@ Hello World!
 1. Склонируй репозиторий:
 
    ```bash
-   git clone https://github.com/твой-ник/toxa.git
+   git clone https://github.com/TOXAIAZIK/toxa.git
    cd toxa
    ```
 
